@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##result
+![todo 0](https://user-images.githubusercontent.com/46952538/94354076-863fbe80-0045-11eb-8c0b-a35277c39c65.PNG)
+On ajout 5 Todos dans notre application
+![todo 1](https://user-images.githubusercontent.com/46952538/94354115-00704300-0046-11eb-95d5-2c8c736d5ecf.PNG)
+![todo 2](https://user-images.githubusercontent.com/46952538/94354121-0ebe5f00-0046-11eb-81b8-dec19c156a5b.PNG)
+![todo3](https://user-images.githubusercontent.com/46952538/94354123-0ebe5f00-0046-11eb-9aff-98250867698c.PNG)
+![todo 04](https://user-images.githubusercontent.com/46952538/94354122-0ebe5f00-0046-11eb-8ebb-ae44e1785c25.PNG)
+on delete tous les autres todos sauf le 1 et 2
+![todo5](https://user-images.githubusercontent.com/46952538/94354124-0f56f580-0046-11eb-9bb7-3daa5b82d582.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
